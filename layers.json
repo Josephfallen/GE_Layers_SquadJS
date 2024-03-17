@@ -4370,8 +4370,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-     },
-     {
+    },
+    {
       "Name": "GE_Sumari_Seed_v2_USSF-AQINS",
       "rawName": "GE_Sumari_Seed_v2_USSF-AQINS",
       "levelName": "GE_Sumari_Seed_v2_USSF-AQINS",
@@ -4409,8 +4409,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-     },
-     {
+    },
+    {
       "Name": "GE_Sanxian_Invasion_v1_USSF-RUSOF",
       "rawName": "GE_Sanxian_Invasion_v1_USSF-RUSOF",
       "levelName": "GE_Sanxian_Invasion_v1_USSF-RUSOF",
@@ -4448,8 +4448,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-     },
-     {
+    },
+    {
       "Name": "GE_Sanxian_Invasion_v2_USA-RGF",
       "rawName": "GE_Sanxian_Invasion_v2_USA-RGF",
       "levelName": "GE_Sanxian_Invasion_v2_USA-RGF",
@@ -4487,8 +4487,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_Invasion_v1_AFU-VDV",
       "rawName": "GE_Harju_Invasion_v1_AFU-VDV",
       "levelName": "GE_Harju_Invasion_v1_AFU-VDV",
@@ -4526,8 +4526,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_Invasion_v3_AFU-WAGPMC",
       "rawName": "GE_Harju_Invasion_v3_AFU-WAGPMC",
       "levelName": "GE_Harju_Invasion_v3_AFU-WAGPMC",
@@ -4565,8 +4565,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_Invasion_v4_AFU-RGF",
       "rawName": "GE_Harju_Invasion_v4_AFU-RGF",
       "levelName": "GE_Harju_Invasion_v4_AFU-RGF",
@@ -4604,8 +4604,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_Invasion_v4_USMC-RUSOF",
       "rawName": "GE_Harju_Invasion_v4_USMC-RUSOF",
       "levelName": "GE_Harju_Invasion_v4_USMC-RUSOF",
@@ -4643,8 +4643,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_Invasion_v5_UAFI-VDV",
       "rawName": "GE_Harju_Invasion_v5_UAFI-VDV",
       "levelName": "GE_Harju_Invasion_v5_UAFI-VDV",
@@ -4682,8 +4682,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
       "rawName": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
       "levelName": "GE_Mestia_Invasion_v1_UAFI-WAGPMC",
@@ -4721,8 +4721,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Sanxian_Invasion_v2_SC-WAG",
       "rawName": "GE_Sanxian_Invasion_v2_SC-WAG",
       "levelName": "GE_Sanxian_Invasion_v2_SC-WAG",
@@ -4760,8 +4760,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Sanxian_Invasion_v2_USA-AQINS",
       "rawName": "GE_Sanxian_Invasion_v2_USA-AQINS",
       "levelName": "GE_Sanxian_Invasion_v2_USA-AQINS",
@@ -4799,8 +4799,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_AlBasrah_RAAS_v1_USMC_WAG",
       "rawName": "GE_AlBasrah_RAAS_v1_USMC_WAG",
       "levelName": "GE_AlBasrah_RAAS_v1_USMC_WAG",
@@ -4838,8 +4838,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_AlBasrah_RAAS_v1_USSF_AQINS",
       "rawName": "GE_AlBasrah_RAAS_v1_USSF_AQINS",
       "levelName": "GE_AlBasrah_RAAS_v1_USSF_AQINS",
@@ -4877,8 +4877,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Anvil_RAAS_v2_USSF_RUSOF",
       "rawName": "GE_Anvil_RAAS_v2_USSF_RUSOF",
       "levelName": "GE_Anvil_RAAS_v2_USSF_RUSOF",
@@ -4916,8 +4916,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_BlackCoast_RAAS_v1_USMC-WAGPMC",
       "rawName": "GE_BlackCoast_RAAS_v1_USMC-WAGPMC",
       "levelName": "GE_BlackCoast_RAAS_v1_USMC-WAGPMC",
@@ -4955,8 +4955,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_BlackCoast_RAAS_v1_USSF-SC",
       "rawName": "GE_BlackCoast_RAAS_v1_USSF-SC",
       "levelName": "GE_BlackCoast_RAAS_v1_USSF-SC",
@@ -4994,8 +4994,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Harju_RAAS_v2_UAFI-VDV",
       "rawName": "GE_Harju_RAAS_v2_UAFI-VDV",
       "levelName": "GE_Harju_RAAS_v2_UAFI-VDV",
@@ -5033,8 +5033,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Mestia_RAAS_v1_WAGPMC-UAFI",
       "rawName": "GE_Mestia_RAAS_v1_WAGPMC-UAFI",
       "levelName": "GE_Mestia_RAAS_v1_WAGPMC-UAFI",
@@ -5072,8 +5072,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Sanxian_RAAS_v1_USSF-WAG",
       "rawName": "GE_Sanxian_RAAS_v1_USSF-WAG",
       "levelName": "GE_Sanxian_RAAS_v1_USSF-WAG",
@@ -5111,8 +5111,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Sanxian_RAAS_v2_SC-RUSOF",
       "rawName": "GE_Sanxian_RAAS_v2_SC-RUSOF",
       "levelName": "GE_Sanxian_RAAS_v2_SC-RUSOF",
@@ -5150,8 +5150,8 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      },
-      {
+    },
+    {
       "Name": "GE_Tallil_RAAS_v2_IDF_RUSOF",
       "rawName": "GE_Tallil_RAAS_v2_IDF_RUSOF",
       "levelName": "GE_Tallil_RAAS_v2_IDF_RUSOF",
@@ -5189,7 +5189,47 @@
       "layerVersion": "v3",
       "mapSize": "0.5x5.0 km",
       "mapSizeType": "Playable Area"
-      }
+    },
+    {
+      "Name": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "rawName": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "levelName": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "minimapTexture": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "lightingLevel": "GE_Fallujah_Seed_v6_USSF-WAGPMC",
+      "lighting": "Partial Clouds Mid Day",
+      "border": [],
+      "team1": {
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "true",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "Wagner P M C",
+        "teamSetupName": "Wagner P M C",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "true",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      
+    },
+      "type": "AAS Graph",
+      "Flag": [],
+      "capturePoints": "1",
+      "mapName": "Fallujah",
+      "gamemode": "Invasion",
+      "layerVersion": "v1",
+      "mapSize": "0.5x5.0 km",
+      "mapSizeType": "Playable Area"
+    }
   ],
   "Vehicles": [
     {}

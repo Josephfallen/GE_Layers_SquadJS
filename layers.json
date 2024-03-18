@@ -5219,8 +5219,47 @@
         "actions": "4",
         "commander": "true",
         "vehicles": []
-      
+
+      },
+      "type": "AAS Graph",
+      "Flag": [],
+      "capturePoints": "1",
+      "mapName": "Fallujah",
+      "gamemode": "Invasion",
+      "layerVersion": "v1",
+      "mapSize": "0.5x5.0 km",
+      "mapSizeType": "Playable Area"
     },
+    {
+      "Name": "GE_Fallujah_Invasion_v2_USSF-AQINS",
+      "rawName": "GE_Fallujah_Invasion_v2_USSF-AQINS",
+      "levelName": "GE_Fallujah_Invasion_v2_USSF-AQINS",
+      "minimapTexture": "GE_Fallujah_Invasion_v2_USSF-AQINS",
+      "lightingLevel": "GE_Fallujah_Invasion_v2_USSF-AQINS",
+      "lighting": "Partial Clouds Mid Day",
+      "border": [],
+      "team1": {
+        "faction": "United States Special Forces",
+        "teamSetupName": "United States Special Forces",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "false",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      },
+      "team2": {
+        "faction": "A l - Q a e d a",
+        "teamSetupName": "A l - Q a e d a",
+        "tickets": "350",
+        "playerPercent": "50",
+        "disabledVeh": "true",
+        "intelOnEnemy": "3",
+        "actions": "4",
+        "commander": "true",
+        "vehicles": []
+      },
       "type": "AAS Graph",
       "Flag": [],
       "capturePoints": "1",

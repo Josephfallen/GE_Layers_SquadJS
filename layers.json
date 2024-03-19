@@ -1964,9 +1964,9 @@
       "team1": {
         "faction": "S p e t z n a z",
         "teamSetupName": "S p e t z n a z",
-        "tickets": "350",
+        "tickets": "300",
         "playerPercent": "50",
-        "disabledVeh": "true",
+        "disabledVeh": "false",
         "intelOnEnemy": "3",
         "actions": "4",
         "commander": "true",
@@ -1975,9 +1975,9 @@
       "team2": {
         "faction": "United States Army",
         "teamSetupName": "United States Army",
-        "tickets": "350",
+        "tickets": "700",
         "playerPercent": "50",
-        "disabledVeh": "true",
+        "disabledVeh": "false",
         "intelOnEnemy": "3",
         "actions": "4",
         "commander": "true",
